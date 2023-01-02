@@ -1,7 +1,7 @@
 # SeeingInColour
 Utilizing ofxOpenCV and OpenFrameworks, I developed a software that tracks two objects of different colors.
 
-Feature of the software:
+Software features:
   - Tracks the position of the two colored objects
   - Informs the user when objects are detected or lost
   - Notifies the user when the two objects are close to each other
